@@ -1,4 +1,4 @@
 # visit site
-https://syamoji-ruler.github.io/study.github.io/
+[Home](https://syamoji-ruler.github.io/study-study-study/)
 # study note
 - [folder1](/folder1/STUDYNOTE.md)
