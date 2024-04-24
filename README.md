@@ -1,5 +1,5 @@
 # visit site
-https://shamoji-ruler.github.io/study/
+https://syamoji-ruler.github.io/study.github.io/
 # study note
 - [Golang](/Golang/STUDYNOTE.md)
 - [React](/React/STUDYNOTE.md)
