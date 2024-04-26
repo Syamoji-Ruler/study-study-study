@@ -1,5 +1,5 @@
 [Home](https://syamoji-ruler.github.io/study-study-study/)
-# study note
+# Study Note
 ### IT
 - [システム監査](/IT/システム監査.md)
 
