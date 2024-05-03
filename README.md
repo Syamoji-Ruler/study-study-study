@@ -1,6 +1,5 @@
 [Home](https://syamoji-ruler.github.io/study-study-study/)
 # Sakin
-![alt]("C:\Users\lark0\OneDrive\デスクトップ\image\Your-Gold-Dust-Is-A-Gold-Mine-inner.jpg")
 > *学問なんて、覚えると同時に忘れてしまってもいいものなんだ。けれども、全部忘れてしまっても、その勉強の訓練の底に一つかみの砂金が残っているものだ。これだ。これが貴いのだ。勉強しなければいかん。（太宰治 正義と微笑）*
 
 ### 資格
