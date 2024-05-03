@@ -1,5 +1,5 @@
 [Home](https://syamoji-ruler.github.io/study-study-study/)
-# Study Note
+# Sakin
 
 ### 資格
 - [簿記3級](/金融・ファイナンス/簿記3級.md)
